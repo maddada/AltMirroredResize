@@ -1,6 +1,6 @@
 [package]
 name = "alt-mirrored-resize"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
 description = "Hold Alt and drag a window edge to resize it from both sides, like Option-resizing on macOS."
 build = "build.rs"
