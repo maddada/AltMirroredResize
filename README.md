@@ -87,5 +87,7 @@ macOS has this built in. A Linux port would need its own pointer hook and window
 
 - [MiddleClickDragScroll](https://github.com/maddada/MiddleClickDragScroll): hold the middle
   mouse button and drag to scroll, with trackpad-style flick momentum.
+- [TopScrollBrightness](https://github.com/maddada/TopScrollBrightness): scroll with the pointer at
+  the top edge of a screen to change that monitor's brightness.
 - [Ghostex](https://ghostex.dev) ([GitHub](https://github.com/maddada/Ghostex)): a native
   workspace for coding agents, built in Rust with GPUI.
